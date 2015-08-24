@@ -1,0 +1,13 @@
+{
+    "name": "BitArray Documentation",
+    "description": "API Documentation for the BitArray type",
+    "version": "0.6.0",
+    "url": "https://github.com/carlosascari/bitarray",
+    "logo": "",
+    "options": {
+        "paths": "./",
+        "outdir": "./documentation",
+        "linkNatives": true,
+        "tabtospace": 4
+    }
+}
