@@ -23,6 +23,14 @@ As it's still **impossible** to inherit from the **Array** object, to take advan
 <script src="pathto/bitarray.js"></script>
 ```
 
+#### Node.js
+
+```js
+npm i js-bitarray --save
+
+var BitArray = require('js-bitarray')
+```
+
 ## Usage
 
 *All ES5 Array methods are supported*

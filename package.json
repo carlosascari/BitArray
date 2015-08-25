@@ -1,0 +1,30 @@
+{
+  "name": "js-bitarray",
+  "version": "0.6.0",
+  "description": "A seamless implementation of a BitArray for Javascript",
+  "main": "BitArray.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlosascari/bitarray.git"
+  },
+  "keywords": [
+    "bitarray",
+    "bit array",
+    "bit vector",
+    "bitset",
+    "bit set",
+    "array"
+  ],
+  "author": "Ascari <carlos.ascari.x@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosascari/bitarray/issues"
+  },
+  "homepage": "https://github.com/carlosascari/bitarray"
+}
